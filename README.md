@@ -1,3 +1,7 @@
+DETR模型  
+代码中对模型架构部分的代码解释的很详细，希望对你学习有帮助。可以直接运行test看一下效果。  
+![image](https://github.com/user-attachments/assets/a065fa27-5a5f-4ef3-ad35-8e1134d6c315)
+
 数据集下载路径：  https://cocodataset.org/#download  
 ![image](https://github.com/user-attachments/assets/001043cc-663d-445d-8c7d-141cf718c096)
 
